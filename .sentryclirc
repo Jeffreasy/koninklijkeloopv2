@@ -1,0 +1,7 @@
+[defaults]
+url=https://sentry.io/
+org=koninklijkeloop
+project=your-project-slug
+
+[auth]
+token=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
